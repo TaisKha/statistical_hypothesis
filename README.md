@@ -1,2 +1,3 @@
 # statistical_hypothesis
-Входные данные - файл result.txt. По риду можно сказать один или два штама короновируса находится в организме. Необходимо выяснить вызвано ли это ошибкой секвенирования или же действительно сразу два штамма вируса могут находится в одном организме. Программа реализует проверку статистической гипотезы о том, что данные имеют биномиальное распределение. 
+The input is the file result.txt. You can tell from the reed whether one or two strains of coronavirus are in the organism. We need to find out whether this is caused by a sequencing error or whether there really are two strains of the virus in the same organism at once. The program tests the statistical hypothesis that the data have a binomial distribution. 
+
